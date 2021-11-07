@@ -27,4 +27,5 @@
 > differenceInMinutes 也是帶了兩個參數進去，前後概念是減數和被減數的差別，後者我帶了一個 New Date 抓一次當前系統時間，兩者相減的結果如果是>0 代表還沒超時 XD
 
 - [箭頭函式](https://wcc723.github.io/javascript/2017/12/21/javascript-es6-arrow-function/)
+- [30 seconds fo code - arrow function](https://www.30secondsofcode.org/articles/s/javascript-arrow-regular-function-differences)
 - [函式套函式，JavaScript 閉包](https://coolshell.cn/articles/6731.html)
