@@ -1,6 +1,5 @@
 .DS_Store
 package.json
-./git-cz
-node_modules
-.cz-config.js
 package-lock.json
+node_modules
+.cz-configgaa
