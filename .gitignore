@@ -2,3 +2,5 @@
 package.json
 ./git-cz
 node_modules
+.cz-config.js
+package-lock.json
