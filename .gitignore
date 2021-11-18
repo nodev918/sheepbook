@@ -2,4 +2,4 @@
 package.json
 package-lock
 node_modules
-.cz-config
+.cz-config.js
