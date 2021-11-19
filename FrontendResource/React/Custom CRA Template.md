@@ -112,7 +112,7 @@
 
 ## 使用
 
-到這裡一切順利的話，之後執行只需要執行就可以了
+到這裡一切順利的話，之後只需要在CRA後面帶上 `--template` 就可以了
 
 ```zsh
    npx create-react-app projectName --template templateName
